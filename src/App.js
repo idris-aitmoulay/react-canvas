@@ -1,11 +1,11 @@
 import React from 'react';
 import './App.css';
 
-import { Chapter0 } from './scenarios';
+import { CanvasResize } from './scenarios';
 
 const App = () => (
   <div className="App">
-    <Chapter0 />
+    <CanvasResize />
   </div>
 
 );
