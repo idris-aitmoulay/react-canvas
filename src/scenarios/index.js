@@ -4,3 +4,7 @@ export {
 export {
   default as CanvasResize
 } from './canvas-resize';
+
+export {
+  default as Goals1
+} from './Goals1';
