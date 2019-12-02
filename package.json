@@ -8,10 +8,10 @@
     "react-scripts": "3.2.0"
   },
   "scripts": {
-    "start": "mon-app/node_modules/.bin/react-scripts start",
-    "build": "mon-app/node_modules/.bin/react-scripts build",
-    "test": "mon-app/node_modules/.bin/react-scripts test",
-    "eject": "mon-app/node_modules/.bin/react-scripts eject"
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": "react-app"
