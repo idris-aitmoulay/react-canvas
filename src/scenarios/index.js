@@ -8,3 +8,7 @@ export {
 export {
   default as Goals1
 } from './Goals1';
+
+export {
+  default as AnimatingCanvas
+} from './AnimatingCanvas';

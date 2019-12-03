@@ -1,11 +1,11 @@
 import React from 'react';
 import './App.css';
 
-import { Goals1 } from './scenarios';
+import { AnimatingCanvas } from './scenarios';
 
 const App = () => (
   <div className="App">
-    <Goals1 />
+    <AnimatingCanvas />
   </div>
 
 );
